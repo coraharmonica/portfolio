@@ -1,2 +1,2 @@
 # portfolio
-check out my online portfolio
+check out my online art portfolio
