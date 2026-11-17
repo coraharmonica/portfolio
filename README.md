@@ -1,2 +1,2 @@
-# cora.github.io
-portfolio
+# portfolio
+check out my online portfolio
